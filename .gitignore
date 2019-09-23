@@ -1,0 +1,8 @@
+*suo
+*.lock
+*.ide
+*.user
+*.exe
+*.pdb
+*.cache
+*.csproj.*.txt
